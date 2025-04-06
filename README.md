@@ -26,7 +26,6 @@
 
 🌱 **Currently Leveling Up:**  
 - Advanced **C# OOP patterns**  
-- **Cloud technologies** (Azure)  
 - **Software architecture** principles  
 
 📫 **Let's Connect:**  
